@@ -24,15 +24,10 @@ namespace Intro
                 try
                 {
                     // Utilizza Entity Framework per verificare se l'alias del cliente esiste già
-                    using (var db = new PCTO_Atelier())
-                    {
-                        if (await db.Cliente.AnyAsync(a => a.codiceFiscale == registrationData.codiceFiscale))
-                        {
+                    using (var db = new PCTO_Atelier()){
+                        if (await db.Cliente.AnyAsync(a => a.codiceFiscale == registrationData.codiceFiscale)){
                             context.Response.StatusCode = 409; // codiceFiscale già esistente
-                        }
-                        else
-                        {
-                            // Crea un nuovo oggetto Cliente e lo aggiunge al database
+                        } else{    // Crea un nuovo oggetto Cliente e lo aggiunge al database
                             var newCliente = new Cliente
                             {
                                 ragioneSociale = registrationData.ragioneSociale,
@@ -49,7 +44,7 @@ namespace Intro
 
                             // Imposta il codice di stato HTTP 200 (OK) e salva le modifiche al database
                             context.Response.StatusCode = 200;
-                            db.Cliente.Add(newCliente);
+                            db.Cliente.Add(newCliente);// Aggiunge l'oggetto NewClient alla tabella Cliente
                             await db.SaveChangesAsync();
                         }
                     }

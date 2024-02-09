@@ -21,7 +21,7 @@ namespace Intro
                 // Utilizza Entity Framework per ottenere la lista di clienti dal database
                 using (var db = new PCTO_Atelier())
                 {
-                    var users = db.Cliente.Select(Cliente => new
+                    var users = db.Cliente.Select(Cliente => new // La riga seguente esegue una query di selezione sulla tabella Cliente del database
                     {
                         Cliente.ragioneSociale,
                         Cliente.alias,
@@ -33,7 +33,7 @@ namespace Intro
                         Cliente.stato,
                         Cliente.email,
                         Cliente.telefono,
-                    }).ToList();
+                    }).ToList(); // E il risultato della query viene inizializzato come una List
 
                     // Crea un oggetto JSON con l'array di clienti
                     var responseObject = new
