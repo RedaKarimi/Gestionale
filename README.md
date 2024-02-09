@@ -28,7 +28,7 @@ Il frontend del progetto "Gestionale" offre un interfaccia userfriendly che cons
 
 ### Accesso Utente
 
-![Form di autenticazione dell'utente](https://drive.google.com/file/d/16jBoHP0CyLf-KIpiz6tJjb03pR3eAqCv/edit)
+![Form di autenticazione dell'utente](https://drive.google.com/file/d/16jBoHP0CyLf-KIpiz6tJjb03pR3eAqCv/uc?export=download)
 
 - L'utente effettua il login al sistema da **account unici preregistrati** 
 - Degli account utente le **credenziali sono criptate con SHA3**
