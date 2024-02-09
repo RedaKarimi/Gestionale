@@ -292,7 +292,7 @@ La complessità del progetto non richiedeva l'utilizzo di tali funzionalità int
 
 ### Codici di stato HTTP 
 
-Il backend gestisce le eccezioni in modo appropriato, restituendo codici di stato HTTP appropriati e fornendo informazioni dettagliate sugli errori al [client](frontend.md#8-gestione-delle-eccezioni). Ciò aiuta a garantire una gestione sicura e robusta delle richieste, fornendo al client tutte le informazioni necessarie per comprendere e gestire correttamente gli errori durante le interazioni con il backend.
+Il backend gestisce le eccezioni in modo appropriato, restituendo codici di stato HTTP appropriati e fornendo informazioni dettagliate sugli errori al [client](../Client/README.md#8-gestione-delle-eccezioni). Ciò aiuta a garantire una gestione sicura e robusta delle richieste, fornendo al client tutte le informazioni necessarie per comprendere e gestire correttamente gli errori durante le interazioni con il backend.
 
 #### Globale
 
@@ -499,7 +499,7 @@ Grazie ancora a tutti coloro che hanno reso possibile il successo di questo prog
 ![Supporto](https://img.shields.io/badge/Supporto-Community%20%7C%20Aziendale-green)
 
 > [!NOTE]
-> Consultare il [readme](readme.md) per ulteriori informazioni.
+> Consultare il [readme](../) per ulteriori informazioni.
 
 ![Download](https://img.shields.io/badge/Download-0%2B-blue)
 
