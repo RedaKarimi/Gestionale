@@ -80,7 +80,7 @@ Per installare il progetto, è necessario avere installati i seguenti componenti
 >Assicurati di consultare la [documentazione](#5-documentazione) dettagliata per informazioni più approfondite.
 >
 >Nel dettaglio fare riferimento ai seguenti link:
-> - [Installazione Frontend](Client/README.md#10-avvio-e-sviluppo-locale)
+> - [Installazione Frontend](Client/README.md#11-avvio-e-sviluppo-locale)
 > - [Installazione Backend](Server/README.md#10-deployment)
 
 
@@ -126,7 +126,7 @@ Per contribuire al progetto, ricevere informazioni o segnalare bug fare riferime
 
 | Issues Repository GitHub                        | Email Aziendale                  | Email Privata                  |
 |------------------------------------------|---------------------------------|--------------------------------|
-| [Repository](https://github.com/pub) | gestionale.dev@gmail.com                | redakarimi76@gmail.com                        |
+| [Repository](https://github.com/RedaKarimi/Gestionale/issues) | gestionale.dev@gmail.com                | redakarimi76@gmail.com                        |
 |  |                |                           vittoriopiotti.vp@gmail.com     |
 
 
