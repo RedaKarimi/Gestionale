@@ -56,10 +56,10 @@ Il progetto è stato completato con successo ed è in uno stato stabile. Tutte l
 
 
 > [!WARNING]
-> Tra le criticità riscontrate durante i test, è stata identificata la presenza di  [componenti deprecati](frontend.md#WARNING) nel frontend
+> Tra le criticità riscontrate durante i test, è stata identificata la presenza di  [componenti deprecati](Client/README.md#WARNING) nel frontend
 
 > [!TIP]
-> Tra gli sviluppi futuri l'[aggiornamento dei componenti deprecati](frontend.md#TIP) nel frontend per garantire compatibilità e prestazioni ottimali.
+> Tra gli sviluppi futuri l'[aggiornamento dei componenti deprecati](Client/README.md#TIP) nel frontend per garantire compatibilità e prestazioni ottimali.
 
 
 ![Stato del Progetto](https://img.shields.io/badge/Stato-Stabile-brightgreen)
@@ -80,8 +80,8 @@ Per installare il progetto, è necessario avere installati i seguenti componenti
 >Assicurati di consultare la [documentazione](#5-documentazione) dettagliata per informazioni più approfondite.
 >
 >Nel dettaglio fare riferimento ai seguenti link:
-> - [Installazione Frontend](frontend.md#10-avvio-e-sviluppo-locale)
-> - [Installazione Backend](backend.md#10-deployment)
+> - [Installazione Frontend](Client/README.md#10-avvio-e-sviluppo-locale)
+> - [Installazione Backend](Server/README.md#10-deployment)
 
 
 ![Compatibilità Web](https://img.shields.io/badge/Compatibilit%C3%A0-Chrome%20%7C%20Firefox%20%7C%20Safari-green)
@@ -100,8 +100,8 @@ Seguire le istruzioni di configurazione per configurare React, .NET Core, SQL Se
 
 Per la documentazione dettagliata del frontend e del backend, fare riferimento ai seguenti link:
 
-- [Documentazione Frontend](frontend.md)
-- [Documentazione Backend](backend.md)
+- [Documentazione Frontend](Client/README.md)
+- [Documentazione Backend](Server/README.md)
 
 ![Tecnologia](https://img.shields.io/badge/Tecnologia-React%20%7C%20.NET%20%7C%20C%23-yellow)
 
