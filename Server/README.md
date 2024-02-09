@@ -484,7 +484,7 @@ Per contribuire al progetto, ricevere informazioni o segnalare bug fare riferime
 
 | Issues Repository GitHub                        | Email Aziendale                  | Email Privata                  |
 |------------------------------------------|---------------------------------|--------------------------------|
-| [Repository](https://github.com/pub) | gestionale.dev@gmail.com                | redakarimi76@gmail.com                        |
+| [Repository](https://github.com/RedaKarimi/Gestionale/issues) | gestionale.dev@gmail.com                | redakarimi76@gmail.com                        |
 |  |                |                           vittoriopiotti.vp@gmail.com     |
 
 ![Contatto](https://img.shields.io/badge/Contatto-Email%20%7C%20GitHub-blue)
@@ -499,7 +499,7 @@ Grazie ancora a tutti coloro che hanno reso possibile il successo di questo prog
 ![Supporto](https://img.shields.io/badge/Supporto-Community%20%7C%20Aziendale-green)
 
 > [!NOTE]
-> Consultare il [readme](../) per ulteriori informazioni.
+> Consultare il [README globale del progetto](../) per ulteriori informazioni.
 
 ![Download](https://img.shields.io/badge/Download-0%2B-blue)
 
