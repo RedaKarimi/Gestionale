@@ -28,7 +28,7 @@ Il frontend del progetto "Gestionale" offre un interfaccia userfriendly che cons
 
 ### Accesso Utente
 
-![Form di autenticazione dell'utente](images/autenticaUtente.png)
+![Form di autenticazione dell'utente](Client/images/autenticaUtente.png)
 
 - L'utente effettua il login al sistema da **account unici preregistrati** 
 - Degli account utente le **credenziali sono criptate con SHA3**
@@ -36,13 +36,13 @@ Il frontend del progetto "Gestionale" offre un interfaccia userfriendly che cons
 
 ### Registrazione Clienti
 
-![Form di registrazione del cliente](images/registraCliente.png)
+![Form di registrazione del cliente](Client/images/registraCliente.png)
 
 Gli utenti possono registrare i propri clienti nel sistema che li identifica sulla base del loro codice fiscale.
 
 ### Visualizzazione Clienti
 
-![Form di visualizzazione dei clienti](images/visualizzaClienti.png)
+![Form di visualizzazione dei clienti](Client/images/visualizzaClienti.png)
 
 Gli utenti possono visualizzare in modo massivo o nel dettaglio le anagrafiche dei propri clienti con le seguenti features:
 
