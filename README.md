@@ -28,7 +28,7 @@ Il frontend del progetto "Gestionale" offre un interfaccia userfriendly che cons
 
 ### Accesso Utente
 
-![Form di autenticazione dell'utente](https://drive.google.com/uc?export=view&id=16jBoHP0CyLf-KIpiz6tJjb03pR3eAqCv)
+![Form di autenticazione dell'utente](images/autenticaUtente.png)
 
 - L'utente effettua il login al sistema da **account unici preregistrati** 
 - Degli account utente le **credenziali sono criptate con SHA3**
@@ -36,13 +36,13 @@ Il frontend del progetto "Gestionale" offre un interfaccia userfriendly che cons
 
 ### Registrazione Clienti
 
-![Form di registrazione del cliente](https://drive.google.com/uc?export=view&id=1wQdnbZmpru3U7OGmcZtHy1TRsFmLae_B)
+![Form di registrazione del cliente](images/registraCliente.png)
 
 Gli utenti possono registrare i propri clienti nel sistema che li identifica sulla base del loro codice fiscale.
 
 ### Visualizzazione Clienti
 
-![Form di visualizzazione dei clienti](https://drive.google.com/uc?export=view&id=1cgw3AAkympaZtUbj8f57U0aC2lXVvqHp)
+![Form di visualizzazione dei clienti](images/visualizzaClienti.png)
 
 Gli utenti possono visualizzare in modo massivo o nel dettaglio le anagrafiche dei propri clienti con le seguenti features:
 
@@ -163,8 +163,6 @@ Il progetto è rilasciato sotto una licenza open-source e non è vincolato da co
 
 Lo stato della build è riuscito e stabile.
 
-![Download](https://img.shields.io/badge/Download-0%2B-blue)
-
 ## 11. Recap:
 Questo README fornisce una panoramica del progetto Gestionale, comprese le istruzioni per l'installazione, l'utilizzo, il contributo e il contatto con i gestori del backend e del frontend. 
 
@@ -172,6 +170,8 @@ Questo README fornisce una panoramica del progetto Gestionale, comprese le istru
 >
 >Assicurati di consultare la [documentazione](#5-documentazione) dettagliata per informazioni più approfondite.
 
+![Download](https://img.shields.io/badge/Download-0%2B-blue)
+
 ![Popolarità](https://img.shields.io/badge/Popolarit%C3%A0-Bassa-yellow)
 
-![Ultima modifica](https://img.shields.io/badge/Ultima%20Modifica-Gennaio%202024-blue)
+![Ultima modifica](https://img.shields.io/badge/Ultima%20Modifica-Febbraio%202024-blue)
