@@ -36,13 +36,13 @@ Il frontend del progetto "Gestionale" offre un interfaccia userfriendly che cons
 
 ### Registrazione Clienti
 
-![Form di registrazione del cliente](images/registraCliente.png)
+![Form di registrazione del cliente](https://drive.google.com/uc?export=view&id=1wQdnbZmpru3U7OGmcZtHy1TRsFmLae_B)
 
 Gli utenti possono registrare i propri clienti nel sistema che li identifica sulla base del loro codice fiscale.
 
 ### Visualizzazione Clienti
 
-![Form di visualizzazione dei clienti](images/visualizzaClienti.png)
+![Form di visualizzazione dei clienti](https://drive.google.com/uc?export=view&id=1cgw3AAkympaZtUbj8f57U0aC2lXVvqHp)
 
 Gli utenti possono visualizzare in modo massivo o nel dettaglio le anagrafiche dei propri clienti con le seguenti features:
 
