@@ -155,6 +155,8 @@ Il progetto è rilasciato sotto una licenza open-source e non è vincolato da co
 
 
 
+
+
 ![Contatto](https://img.shields.io/badge/Contatto-Email%20%7C%20GitHub-blue)
 
 ![Supporto](https://img.shields.io/badge/Supporto-Community%20%7C%20Aziendale-green)
